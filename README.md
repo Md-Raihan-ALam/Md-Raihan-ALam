@@ -1,6 +1,6 @@
 ### Hi there 👋, Md Raihan Alam
 #### I am front end developer
-![I am front end developer](https://github.com/Md-Raihan-Alam/Md-Raihan-Alam/blob/main/banner.png)
+![I am front end developer](https://pbs.twimg.com/profile_banners/1389961848380788742/1674798772/1080x360)
 
 I'm Raihan from Bangladesh and I am a front end web developer. I’m currently working on 🔭 DNA Inc(https://www.linkedin.com/company/thednainc/people/) as CDO. I mostly work in React, Tailwind, TypeScript and SCSS.🌱 I’m currently learning Back-End Web development.📫You can reach me by checking out my twitter at https://twitter.com/MdRaiha48799193 or linkdin at https://www.linkedin.com/in/md-raihan-alam-7010a4218/. 👯 I’m happy to collaborate on any react, tailwind or scss project.
 
@@ -16,14 +16,6 @@ Skills: REACT / JS / HTML / CSS / SCSS / TailwindCSS / TypeScript
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-Raihan-Alam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://raihan28.hashnode.dev/my-experience-on-completing-advice-generator-project-from-frontendmentor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-raihan-alam-7010a4218/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@MdRaiha48799193)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/md-raihan-alam)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Md-Raihan-Alam)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Raihan-Alam)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Raihan-Alam&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Md-Raihan-Alam)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Md-Raihan-Alam)  
 
 ![Profile views](https://gpvc.arturio.dev/Md-Raihan-Alam)  
