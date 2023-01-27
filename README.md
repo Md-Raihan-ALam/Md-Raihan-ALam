@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Raihan from Bangladesh and I am a front end web developer. I’m currently working on 🔭 DNA Inc(https://www.linkedin.com/company/thednainc/people/) as CDO. I mostly work in React, Tailwind, TypeScript and SCSS.🌱 I’m currently learning Back-End Web development.📫You can reach me by checking out my twitter at https://twitter.com/MdRaiha48799193 or linkdin at https://www.linkedin.com/in/md-raihan-alam-7010a4218/. 👯 I’m happy to collaborate on any react, tailwind or scss project.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Raihan-Alam)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Md-Raihan-Alam/Md-Raihan-Alam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
