@@ -1,6 +1,6 @@
 ### Hi there 👋, Md Raihan Alam
 #### I am front end developer
-![I am front end developer](https://pbs.twimg.com/profile_banners/1389961848380788742/1674798772/1080x360)
+![I am front end developer](https://github.com/Md-Raihan-Alam/Md-Raihan-Alam/blob/main/banner.png)
 
 I'm Raihan from Bangladesh and I am a front end web developer. I’m currently working on 🔭 DNA Inc(https://www.linkedin.com/company/thednainc/people/) as CDO. I mostly work in React, Tailwind, TypeScript and SCSS.🌱 I’m currently learning Back-End Web development.📫You can reach me by checking out my twitter at https://twitter.com/MdRaiha48799193 or linkdin at https://www.linkedin.com/in/md-raihan-alam-7010a4218/. 👯 I’m happy to collaborate on any react, tailwind or scss project.
 
