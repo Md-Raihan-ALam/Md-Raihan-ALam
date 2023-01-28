@@ -11,7 +11,7 @@ Skills: REACT / JS / HTML / CSS / SCSS / TailwindCSS / TypeScript
 - 👯 I’m looking to collaborate on React or Front end Project 
 - 📫 How to reach me: my twitter at https://twitter.com/MdRaiha48799193 or linkdin at https://www.linkedin.com/in/md-raihan-alam-7010a4218/. 
 - 😄 Pronouns: Raihan 
-- ⚡ Fun fact: Like Anime, love reading Mystery/Epic/scientific  and enjoy fast food 
+- ⚡ Fun fact: Like Anime, love reading Mystery/Epic/scientific books and enjoy fast food 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Md-Raihan-Alam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://raihan28.hashnode.dev/my-experience-on-completing-advice-generator-project-from-frontendmentor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-raihan-alam-7010a4218/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@MdRaiha48799193)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/md-raihan-alam)  
